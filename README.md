@@ -1,3 +1,3 @@
 # Wheel-Loader
-3D mechanical design of a Wheel Loader using SolidWorks. Includes part models, assemblies, and technical drawings.
-Project built using SolidWorks while learning through open-source tutorials and self-practice.
+3D Mechanical Design of a Wheel Loader using SolidWorks, including part models, assemblies, and technical drawings.
+Built independently through open-source tutorials and self-practice, demonstrating initiative and hands-on learning.
